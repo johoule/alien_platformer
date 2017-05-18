@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Alien Escape
 
 You can use the [editor on GitHub](https://github.com/johoule/alien_platformer/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
