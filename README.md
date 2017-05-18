@@ -2,9 +2,9 @@
 
 Help your alien friend escape custody and return home.
 
-### Markdown
+## Instructions For How to Run This Game
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
 
 ```markdown
 Syntax highlighted code block
