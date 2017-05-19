@@ -51,3 +51,25 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 3. Powerups
 
 ## Game Play 
+
+
+## Points Earned for project
+
+- changed name of game (5)
+- changed dimensions of the game window (5)
+- found custom images for blocks (5)
+- found custom image for hero (5)
+- found custom image for enemy (5)
+- customize background image (5)
+- customize scenery layer (5)
+- design a custom standardized level (10)
+- create a game with 8 levels (15)
+- change point value for coins(5)
+
+## Stuff I haven't done but will do by saturday
+
+- find fonts (5)
+- cover art (10)
+- sound effects (5)
+- theme music (5)
+- victory sound (5)
