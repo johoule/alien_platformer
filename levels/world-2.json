@@ -1,0 +1,47 @@
+{
+	"name": "Attack of the Clones",
+	"width": 60,
+	"height": 10,
+	"background-color": [130, 182, 255],
+	"background-img": "assets/backgrounds/ep2_background.png",
+	"background-position": "bottom",
+	"background-repeat-x": 1,
+	"background-fill-y": 1,
+	"scenery-img": "assets/backgrounds/ep1windows.png",
+	"scenery-position": "bottom",
+	"scenery-repeat-x": 1,
+	"scenery-fill-y": 1,
+	"music": "assets/sounds/theme_of_the wanderer.ogg",
+	"start": [4, 8],
+	"gravity": 1.0,
+	"terminal-velocity": 32,
+	"blocks": [[0, 9, "SM"], [1, 9, "SM"], [2, 9, "SM"], [3, 9, "SM"], [4, 9, "SM"],
+	           [5, 9, "SM"], [6, 9, "SM"], [7, 9, "SM"], [8, 9, "SM"], [9, 9, "SM"],
+						 [10, 9, "SM"], [11, 9, "SM"], [12, 9, "SM"], [13, 9, "SM"], [14, 9, "SM"],
+						 [15, 9, "SM"], [16, 9, "SM"], [17, 9, "SM"], [18, 9, "SM"], [19, 9, "SM"],
+						 [20, 9, "SM"], [21, 9, "SM"], [22, 9, "SM"], [23, 9, "SM"], [24, 9, "SM"],
+						 [25, 9, "SM"], [26, 9, "SM"], [27, 9, "SM"], [28, 9, "SM"], [29, 9, "SM"],
+						 [30, 9, "SM"], [31, 9, "SM"], [31, 9, "SM"], [32, 9, "SM"], [33, 9, "SM"], [34, 9, "SM"],
+						 [35, 9, "SM"], [36, 9, "SM"], [37, 9, "SM"], [38, 9, "SM"], [39, 9, "SM"],
+						 [40, 9, "SM"], [41, 9, "SM"], [42, 9, "SM"], [43, 9, "SM"], [44, 9, "SM"],
+						 [45, 9, "SM"], [46, 9, "SM"], [47, 9, "SM"], [48, 9, "SM"], [49, 9, "SM"],
+						 [50, 9, "SM"], [51, 9, "SM"], [52, 9, "SM"], [53, 9, "SM"], [54, 9, "SM"],
+						 [55, 9, "SM"], [56, 9, "SM"], [57, 9, "SM"], [58, 9, "SM"], [59, 9, "SM"],
+
+						 [3, 7, "EL"], [4, 7, "SM"], [5, 7, "ER"],
+
+						 [7, 5, "EL"], [8, 5, "ER"],
+
+						 [12, 7, "LF"], [14, 5, "LF"],
+
+						 [16, 3, "EL"], [17, 3, "SM"], [18, 3, "SM"], [19, 3, "SM"], [20, 3, "ER"],
+
+						 [24, 8, "TL"],  [25, 7, "TL"], [25, 8, "CN"],
+						 [26, 6, "TP"],  [26, 7, "CN"], [26, 8, "CN"]],
+	"bears": [[8, 4], [13, 8]],
+	"monsters": [[18, 2]],
+  "coins": [[4, 5], [16, 6], [18, 7], [20, 7]],
+	"oneups": [[7, 4]],
+	"hearts": [[18, 2]],
+	"flag": [[30, 5]]
+}
