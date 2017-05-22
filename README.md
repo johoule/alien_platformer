@@ -38,7 +38,7 @@ Link to install [python 3](https://www.python.org/downloads/) and [pygame](http:
   -they are things along the way besides coins that when collected will give you extra hearts and lives
 
 ## Game Play 
-
+![game_image](3F85F0AF-3459-4DE8-A23C-67F89171A1F7.JPG)
 
 ## Points Earned for project
 
