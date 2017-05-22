@@ -41,7 +41,8 @@ Link to install [python 3](https://www.python.org/downloads/) and [pygame](http:
 ![game_image](3F85F0AF-3459-4DE8-A23C-67F89171A1F7.JPG)
 -Here is an example image of the game with your main character R2D2 and the enemy darth maul, as well as some coins and powerups
 
-![game_image]()
+![game_image](C412727D-0BFF-4ECA-8E8B-CA8E481378B3.JPG)
+-here is an example image of the game with R2D2 almost at the end of level 1, where he has collected 6 sections of the map, and is reaching rey at the end of the level.
 
 ## Points Earned for project
 
