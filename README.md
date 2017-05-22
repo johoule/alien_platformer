@@ -4,27 +4,12 @@ Help R2D2 go through the star wars story to find all the pieces of the map and d
 
 ## Instructions For How to Run This Game
 
+This game uses python 3 and pygame to run, so you must have python 3 and pygame installed on your computer.
+
+Link to install [python 3](https://www.python.org/downloads/) and ![Image](src)
 
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ## Game Play Instructions
 
