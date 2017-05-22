@@ -6,7 +6,7 @@ Help R2D2 go through the star wars story to find all the pieces of the map and d
 
 This game uses python 3 and pygame to run, so you must have python 3 and pygame installed on your computer.
 
-Link to install [python 3](https://www.python.org/downloads/) and ![Image](src)
+Link to install [python 3](https://www.python.org/downloads/) and [pygame](http://www.pygame.org/download.shtml)
 
 
 
@@ -25,15 +25,17 @@ Link to install [python 3](https://www.python.org/downloads/) and ![Image](src)
 
 1. Enemies
   - level 1: Darth Maul and the dark side
-  - level 2: 
-  - level 3:
+  - level 2: Darth Maul and the dark side
+  - level 3: Darth Maul and the dark side
   - level 4: Director Krennic and the dark side
   - level 5: Darth Vader and the dark side
   - level 6: Darth vader and the dark side
   - level 7: Darth vader and the dark side
   - level 8: Kylo ryn and the dark side
 2. Coins
+  - coins are map pieces which if you collect all of them allow you to win the game.
 3. Powerups
+  -they are things along the way besides coins that when collected will give you extra hearts and lives
 
 ## Game Play 
 
