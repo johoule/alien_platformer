@@ -39,6 +39,9 @@ Link to install [python 3](https://www.python.org/downloads/) and [pygame](http:
 
 ## Game Play 
 ![game_image](3F85F0AF-3459-4DE8-A23C-67F89171A1F7.JPG)
+-Here is an example image of the game with your main character R2D2 and the enemy darth maul, as well as some coins and powerups
+
+![game_image]()
 
 ## Points Earned for project
 
